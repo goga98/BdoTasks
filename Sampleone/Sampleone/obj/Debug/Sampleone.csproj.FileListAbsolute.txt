@@ -1,0 +1,7 @@
+C:\Users\gchok\source\repos\Sampleone\Sampleone\bin\Debug\Sampleone.exe.config
+C:\Users\gchok\source\repos\Sampleone\Sampleone\bin\Debug\Sampleone.exe
+C:\Users\gchok\source\repos\Sampleone\Sampleone\bin\Debug\Sampleone.pdb
+C:\Users\gchok\source\repos\Sampleone\Sampleone\obj\Debug\Sampleone.csprojAssemblyReference.cache
+C:\Users\gchok\source\repos\Sampleone\Sampleone\obj\Debug\Sampleone.csproj.CoreCompileInputs.cache
+C:\Users\gchok\source\repos\Sampleone\Sampleone\obj\Debug\Sampleone.exe
+C:\Users\gchok\source\repos\Sampleone\Sampleone\obj\Debug\Sampleone.pdb
