@@ -33,7 +33,6 @@ namespace Sampleone
                 }
                 Console.WriteLine(combined[i]);
             }
-
         }
         //public bool FirstTask(int [] x, int k)
         //{
